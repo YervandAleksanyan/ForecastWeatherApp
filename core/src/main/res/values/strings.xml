@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+
+
+    <string name="speed_wind_mph_formatter">%.1f mph</string>
+    <string name="speed_wind_kph_formatter">%.1f kph</string>
+    <string name="humidity_formatter">%1d %% </string>
+    <string name="day_info_formatter">It’s a %1s day.</string>
+    <string name="temp_fahrenheit_symbol">&#176;F</string>
+    <string name="search_city_hint">Search City</string>
+    <string name="day_today_name">Today</string>
+    <string name="day_tomorrow_name">Tomorrow</string>
+
+    <!--    Network error Screen-->
+    <string name="empty_days_data">Not found days data</string>
+
+</resources>
